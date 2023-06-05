@@ -1,4 +1,4 @@
-Hello, I am Ehinomwen 👋
+Hello, I am Ehinomwen O. Ughanlumen👋
 
 <!--
 **Ehinomwen/Ehinomwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
